@@ -1,0 +1,6 @@
+c:\users\lewis\documents\visual studio 2015\Projects\Lab9\Lab9\bin\Debug\Lab9.exe.config
+c:\users\lewis\documents\visual studio 2015\Projects\Lab9\Lab9\bin\Debug\Lab9.exe
+c:\users\lewis\documents\visual studio 2015\Projects\Lab9\Lab9\bin\Debug\Lab9.pdb
+c:\users\lewis\documents\visual studio 2015\Projects\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
+c:\users\lewis\documents\visual studio 2015\Projects\Lab9\Lab9\obj\Debug\Lab9.exe
+c:\users\lewis\documents\visual studio 2015\Projects\Lab9\Lab9\obj\Debug\Lab9.pdb
